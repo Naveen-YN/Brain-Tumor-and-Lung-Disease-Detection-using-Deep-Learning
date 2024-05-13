@@ -26,6 +26,11 @@ To train the models, you need to download the following datasets from Kaggle:
 1. [Brain Tumor Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 2. [Lung Disease Dataset](https://www.kaggle.com/datasets/omkarmanohardalvi/lungs-disease-dataset-4-types)
 
+## Pre-trained models
+
+If its hard to download datasets then you can download and use below pre-trainined models and load them in code by updating paths:
+- [Brain Tumor and Lung Disease Pre-Trained Models](https://drive.google.com/drive/folders/1IgzyR1LaNPm9pStxJ8r_EXdWehxzyd-u?usp=sharing)
+
 ## Usage
 
 1. Clone the repository:
