@@ -6,7 +6,7 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.callbacks import ModelCheckpoint
 
-# Define paths
+# Update the paths before runing this file, Make sure that use full paths of files
 train_data_dir = 'E:\\AD Projects\\Brain Tumor and Lung Disease Detection\\Dataset\\Lung Disease\\train'
 test_data_dir = 'E:\\AD Projects\\Brain Tumor and Lung Disease Detection\\Dataset\\Lung Disease\\test'
 val_data_dir = 'E:\\AD Projects\\Brain Tumor and Lung Disease Detection\\Dataset\\Lung Disease\\val'
