@@ -1,1 +1,1 @@
-# Brain-tumor-and-lung-disease-detection-using-deep-learning
+# Brain Tumor and Lung Disease Detection using Deep Learning
