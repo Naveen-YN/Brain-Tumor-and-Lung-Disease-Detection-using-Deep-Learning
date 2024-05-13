@@ -6,8 +6,8 @@ import numpy as np
 import tensorflow as tf
 
 # Load the trained models for Brain Tumor and Lung Disease detection
-brain_tumor_model = tf.keras.models.load_model('Trained Model/brain_tumor_model_best.h5')
-lung_disease_model = tf.keras.models.load_model('Trained Model/lung_disease_model_best.h5')
+brain_tumor_model = tf.keras.models.load_model('brain_tumor_model_best.h5')
+lung_disease_model = tf.keras.models.load_model('lung_disease_model_best.h5')
 
 
 # Define class names for brain tumor and lung disease
