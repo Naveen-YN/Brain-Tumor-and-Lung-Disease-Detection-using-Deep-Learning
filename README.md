@@ -1,6 +1,6 @@
 # Brain Tumor and Lung Disease Detection using Deep Learning
 
-This repository contains an application that utilizes deep learning models for the classification of medical images into various categories of diseases. Currently, it supports the detection of brain tumors and lung diseases. The user interface is developed using PyQt5.
+This Brain Tumor and Lung Disease Detection using Deep Learning is an application that utilizes deep learning models for the classification of medical images into various categories of diseases. Currently, it supports the detection of brain tumors and lung diseases. The user interface is developed using PyQt5.
 
 ## Installation
 
