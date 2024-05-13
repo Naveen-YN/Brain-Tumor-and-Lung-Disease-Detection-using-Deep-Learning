@@ -4,7 +4,7 @@ from tensorflow.keras.models import Model
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.callbacks import ModelCheckpoint
 
-# Define paths
+# Update the paths before runing this file, Make sure that use full paths of files
 train_data_dir = 'E:\\AD Projects\\Brain Tumor and Lung Disease Detection\\Dataset\\Brain Tumor\\Training'
 test_data_dir = 'E:\\AD Projects\\Brain Tumor and Lung Disease Detection\\Dataset\\Brain Tumor\\Testing'
 batch_size = 32
