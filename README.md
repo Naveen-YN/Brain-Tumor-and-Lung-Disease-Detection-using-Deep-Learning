@@ -55,9 +55,3 @@ python main.py
 
 5. Follow the instructions on the user interface to upload and classify medical images.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
-## Credits
-This project is originally
